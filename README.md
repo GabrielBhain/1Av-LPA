@@ -1,4 +1,4 @@
-# Av1 - Sistema de Avaliação de Turmas
+# Sistema de Avaliação de Turmas
 
 ## Descrição 📚
 
